@@ -1,0 +1,501 @@
+CGPA,Python,Java,SQL,C++,HTML_CSS,Communication,Aptitude,Internship,Certifications,Interest,Career
+6.1,No,Yes,Yes,Yes,Yes,Poor,High,No,Yes,Data Scientist,Data Scientist
+6.36,Yes,Yes,Yes,No,Yes,Excellent,High,No,Yes,AI Engineer,AI Engineer
+8.65,No,No,Yes,Yes,No,Poor,Low,No,Yes,Software Engineer,Software Engineer
+9.22,No,Yes,No,Yes,No,Poor,High,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.68,Yes,Yes,No,Yes,Yes,Poor,Medium,No,No,Web Developer,Web Developer
+6.62,No,Yes,No,Yes,Yes,Average,Low,No,No,Cyber Security Analyst,Cyber Security Analyst
+9.76,Yes,No,Yes,Yes,Yes,Good,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+9.47,No,Yes,No,No,No,Average,Medium,Yes,Yes,Web Developer,Web Developer
+8.84,No,No,No,Yes,Yes,Excellent,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.38,No,Yes,No,No,No,Good,High,Yes,Yes,Software Engineer,Software Engineer
+8.92,No,Yes,No,No,Yes,Excellent,Low,No,Yes,Cloud Engineer,Cloud Engineer
+9.31,No,Yes,Yes,No,Yes,Poor,High,No,No,Data Scientist,Data Scientist
+6.43,No,No,Yes,Yes,Yes,Poor,Low,No,Yes,AI Engineer,AI Engineer
+6.49,No,Yes,No,No,Yes,Average,High,No,No,Software Engineer,Software Engineer
+7.66,No,Yes,Yes,Yes,Yes,Good,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.27,Yes,Yes,Yes,Yes,No,Poor,High,Yes,No,AI Engineer,AI Engineer
+6.81,Yes,No,Yes,No,No,Average,Low,Yes,No,Android Developer,Android Developer
+7.61,No,Yes,Yes,Yes,No,Good,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.04,Yes,No,Yes,No,No,Average,Low,No,Yes,Web Developer,Web Developer
+8.48,Yes,Yes,Yes,Yes,No,Excellent,Medium,Yes,No,AI Engineer,AI Engineer
+6.63,Yes,No,No,No,No,Excellent,High,No,Yes,AI Engineer,AI Engineer
+7.13,Yes,Yes,No,Yes,Yes,Excellent,High,Yes,Yes,Web Developer,Web Developer
+9.24,Yes,Yes,Yes,No,Yes,Average,High,Yes,Yes,Data Scientist,Data Scientist
+8.5,No,No,Yes,No,Yes,Good,Medium,Yes,No,Data Analyst,Data Analyst
+7.2,Yes,Yes,No,Yes,Yes,Average,High,No,Yes,Android Developer,Android Developer
+9.35,Yes,No,No,Yes,No,Good,High,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+9.57,Yes,No,Yes,Yes,Yes,Good,Medium,Yes,No,Data Scientist,Data Scientist
+8.61,No,No,No,Yes,Yes,Excellent,Medium,Yes,Yes,Web Developer,Web Developer
+8.93,No,Yes,No,No,Yes,Poor,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.21,Yes,No,Yes,Yes,No,Good,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.53,No,No,Yes,Yes,Yes,Average,Medium,Yes,Yes,Web Developer,Web Developer
+8.97,No,Yes,No,Yes,Yes,Excellent,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.1,No,No,No,Yes,Yes,Poor,High,Yes,No,Web Developer,Web Developer
+7.06,Yes,No,No,No,No,Poor,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.15,No,No,No,No,Yes,Excellent,High,Yes,No,Cloud Engineer,Cloud Engineer
+8.69,Yes,Yes,No,No,Yes,Good,High,No,Yes,AI Engineer,AI Engineer
+7.93,No,No,No,No,Yes,Average,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+7.54,Yes,No,No,Yes,No,Good,Medium,No,No,Cloud Engineer,Cloud Engineer
+7.94,Yes,Yes,No,No,Yes,Average,High,No,Yes,Web Developer,Web Developer
+6.56,Yes,Yes,No,Yes,No,Excellent,High,Yes,No,Web Developer,Web Developer
+7.52,Yes,Yes,Yes,No,Yes,Average,High,No,Yes,Android Developer,Android Developer
+9.49,Yes,No,Yes,No,No,Excellent,High,No,No,Web Developer,Web Developer
+8.83,No,No,No,Yes,No,Excellent,High,Yes,No,Software Engineer,Software Engineer
+6.29,No,Yes,No,No,No,Poor,Low,Yes,Yes,Android Developer,Android Developer
+8.64,Yes,Yes,No,No,No,Excellent,Medium,Yes,Yes,Data Analyst,Data Analyst
+7.48,Yes,No,No,Yes,No,Good,Medium,No,Yes,Data Analyst,Data Analyst
+6.83,No,No,Yes,No,No,Excellent,High,Yes,No,Android Developer,Android Developer
+9.73,Yes,No,Yes,Yes,No,Average,Medium,Yes,Yes,Software Engineer,Software Engineer
+7.44,Yes,No,No,No,No,Good,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+6.07,Yes,No,Yes,Yes,Yes,Poor,Low,Yes,Yes,Android Developer,Android Developer
+6.91,No,Yes,Yes,No,No,Good,Low,Yes,Yes,Software Engineer,Software Engineer
+6.41,Yes,No,No,No,Yes,Poor,High,Yes,Yes,Cloud Engineer,Cloud Engineer
+9.23,Yes,Yes,No,No,No,Poor,High,No,Yes,Cloud Engineer,Cloud Engineer
+9.12,Yes,No,No,No,Yes,Excellent,Low,No,No,Data Analyst,Data Analyst
+7.66,No,No,Yes,Yes,No,Excellent,Low,No,No,Android Developer,Android Developer
+6.11,No,Yes,No,Yes,No,Good,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+7.96,Yes,Yes,Yes,No,No,Average,High,No,No,AI Engineer,AI Engineer
+9.01,Yes,No,Yes,No,Yes,Good,High,No,No,Android Developer,Android Developer
+7.62,No,No,No,No,No,Good,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.45,Yes,Yes,Yes,No,No,Good,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+7.37,No,Yes,Yes,No,Yes,Poor,High,No,Yes,Web Developer,Web Developer
+6.39,Yes,No,No,No,No,Good,Low,Yes,No,Android Developer,Android Developer
+6.43,Yes,No,No,Yes,Yes,Average,Low,No,Yes,Android Developer,Android Developer
+6.45,No,Yes,No,No,No,Good,High,No,No,Web Developer,Web Developer
+8.32,Yes,Yes,Yes,No,Yes,Average,Low,Yes,Yes,AI Engineer,AI Engineer
+6.01,No,No,No,Yes,Yes,Good,High,No,No,Software Engineer,Software Engineer
+8.61,No,Yes,No,Yes,Yes,Average,Medium,Yes,Yes,Data Scientist,Data Scientist
+6.63,No,No,No,Yes,No,Good,High,No,No,AI Engineer,AI Engineer
+7.66,Yes,No,No,No,Yes,Poor,Low,Yes,No,Android Developer,Android Developer
+8.9,Yes,No,No,No,Yes,Excellent,High,No,Yes,AI Engineer,AI Engineer
+7.32,No,No,Yes,Yes,No,Excellent,High,No,No,Android Developer,Android Developer
+9.09,Yes,No,Yes,No,No,Good,Low,No,Yes,Data Analyst,Data Analyst
+7.57,Yes,No,No,No,Yes,Average,Medium,Yes,No,Android Developer,Android Developer
+9.35,No,Yes,Yes,Yes,Yes,Good,High,Yes,No,Android Developer,Android Developer
+6.85,Yes,No,Yes,Yes,No,Good,High,No,No,Data Scientist,Data Scientist
+9.72,Yes,No,Yes,No,Yes,Average,Low,No,No,Android Developer,Android Developer
+9.55,No,Yes,No,No,No,Average,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.1,No,No,No,Yes,Yes,Excellent,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.83,No,No,Yes,No,Yes,Average,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.38,No,Yes,Yes,No,Yes,Poor,Medium,No,No,Android Developer,Android Developer
+8.47,No,No,No,No,Yes,Poor,Low,No,Yes,Data Analyst,Data Analyst
+7.65,Yes,Yes,No,Yes,No,Poor,Low,No,Yes,Data Scientist,Data Scientist
+7.36,No,Yes,Yes,No,Yes,Average,Low,Yes,No,Cloud Engineer,Cloud Engineer
+7.89,Yes,Yes,No,No,No,Good,High,Yes,No,Web Developer,Web Developer
+8.57,Yes,Yes,No,No,No,Excellent,High,No,No,Cloud Engineer,Cloud Engineer
+6.76,No,No,Yes,Yes,No,Good,High,No,No,Cloud Engineer,Cloud Engineer
+9.72,No,No,Yes,Yes,No,Good,Low,No,Yes,AI Engineer,AI Engineer
+8.36,Yes,Yes,Yes,No,No,Poor,High,No,Yes,Web Developer,Web Developer
+9.46,No,No,Yes,Yes,Yes,Good,High,No,Yes,Data Scientist,Data Scientist
+9.47,No,No,No,Yes,No,Poor,Low,Yes,No,Cloud Engineer,Cloud Engineer
+6.34,No,Yes,No,Yes,No,Good,High,No,No,Cyber Security Analyst,Cyber Security Analyst
+6.41,Yes,No,Yes,No,Yes,Poor,High,No,No,Cyber Security Analyst,Cyber Security Analyst
+6.44,Yes,Yes,No,No,Yes,Poor,Low,Yes,No,Data Analyst,Data Analyst
+7.41,No,Yes,No,Yes,No,Excellent,Medium,Yes,No,Android Developer,Android Developer
+7.68,Yes,No,Yes,No,No,Poor,Medium,No,Yes,Web Developer,Web Developer
+9.61,No,Yes,Yes,Yes,Yes,Good,Low,Yes,Yes,Data Scientist,Data Scientist
+9.15,Yes,Yes,Yes,No,Yes,Poor,Medium,Yes,Yes,Data Scientist,Data Scientist
+9.03,Yes,Yes,Yes,Yes,No,Average,High,No,Yes,Cloud Engineer,Cloud Engineer
+7.01,Yes,No,Yes,Yes,No,Excellent,Medium,Yes,No,Software Engineer,Software Engineer
+9.59,Yes,No,No,Yes,Yes,Excellent,Medium,No,Yes,Web Developer,Web Developer
+8.71,No,Yes,Yes,No,Yes,Poor,Low,No,No,Android Developer,Android Developer
+9.78,No,No,No,Yes,Yes,Average,Medium,No,Yes,Data Analyst,Data Analyst
+7.29,No,No,No,Yes,No,Excellent,Medium,No,No,Data Analyst,Data Analyst
+8.61,No,Yes,Yes,Yes,Yes,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+8.23,No,Yes,No,No,No,Poor,Medium,No,No,AI Engineer,AI Engineer
+8.2,Yes,Yes,No,Yes,Yes,Good,High,No,Yes,Data Scientist,Data Scientist
+8.18,No,Yes,No,Yes,Yes,Good,High,No,No,Cloud Engineer,Cloud Engineer
+6.02,Yes,No,Yes,Yes,Yes,Poor,High,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+7.72,Yes,No,No,No,Yes,Poor,Low,Yes,Yes,Data Analyst,Data Analyst
+7.03,No,No,No,No,No,Average,High,Yes,No,Data Scientist,Data Scientist
+6.42,No,No,Yes,Yes,No,Poor,Low,Yes,No,Data Analyst,Data Analyst
+8.92,No,No,No,Yes,Yes,Excellent,High,No,Yes,Web Developer,Web Developer
+7.44,Yes,No,Yes,No,Yes,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+8.19,No,No,No,Yes,No,Poor,Medium,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+6.33,Yes,Yes,No,No,Yes,Excellent,Medium,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.96,Yes,Yes,Yes,No,No,Average,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.75,Yes,Yes,Yes,No,No,Excellent,High,No,No,Cloud Engineer,Cloud Engineer
+7.67,No,No,No,No,Yes,Good,High,Yes,No,Software Engineer,Software Engineer
+7.72,Yes,No,No,Yes,Yes,Excellent,Medium,Yes,No,Android Developer,Android Developer
+7.22,No,Yes,Yes,No,Yes,Good,High,Yes,Yes,Web Developer,Web Developer
+6.94,No,No,Yes,No,No,Good,Medium,No,No,AI Engineer,AI Engineer
+9.0,No,Yes,No,Yes,No,Good,Medium,Yes,No,AI Engineer,AI Engineer
+8.21,Yes,No,No,No,Yes,Poor,Medium,No,No,Data Scientist,Data Scientist
+8.55,Yes,No,No,Yes,No,Good,Low,Yes,No,Software Engineer,Software Engineer
+6.73,Yes,Yes,Yes,No,Yes,Poor,High,No,Yes,Android Developer,Android Developer
+6.59,Yes,Yes,No,Yes,No,Good,High,Yes,No,Data Analyst,Data Analyst
+8.86,No,Yes,Yes,No,No,Average,Medium,No,No,Cloud Engineer,Cloud Engineer
+8.96,No,Yes,Yes,Yes,No,Poor,High,No,No,Cloud Engineer,Cloud Engineer
+8.7,Yes,No,Yes,Yes,No,Excellent,High,Yes,No,Data Scientist,Data Scientist
+9.6,Yes,No,No,Yes,No,Poor,Medium,No,Yes,Data Scientist,Data Scientist
+9.78,No,Yes,Yes,No,Yes,Good,Low,Yes,Yes,Data Analyst,Data Analyst
+9.49,No,Yes,No,No,Yes,Poor,Low,No,Yes,Cloud Engineer,Cloud Engineer
+8.09,No,Yes,No,Yes,No,Poor,Low,Yes,No,Software Engineer,Software Engineer
+6.24,No,Yes,Yes,Yes,No,Excellent,Low,No,Yes,Android Developer,Android Developer
+6.71,Yes,No,Yes,Yes,No,Excellent,Low,No,No,Data Analyst,Data Analyst
+8.84,No,Yes,No,Yes,Yes,Good,Low,Yes,No,Cloud Engineer,Cloud Engineer
+9.09,Yes,No,No,Yes,Yes,Poor,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.77,Yes,Yes,No,No,No,Excellent,Medium,Yes,Yes,Cloud Engineer,Cloud Engineer
+7.36,Yes,No,No,Yes,No,Excellent,Medium,No,No,Cloud Engineer,Cloud Engineer
+9.7,No,No,No,No,Yes,Excellent,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.22,Yes,No,No,No,No,Excellent,Low,No,No,Cloud Engineer,Cloud Engineer
+6.16,No,No,No,Yes,Yes,Excellent,Medium,Yes,Yes,Android Developer,Android Developer
+9.22,No,Yes,Yes,Yes,Yes,Good,Medium,No,Yes,Software Engineer,Software Engineer
+8.58,No,No,No,Yes,Yes,Good,Medium,No,No,Software Engineer,Software Engineer
+9.65,Yes,Yes,No,No,Yes,Good,Medium,No,Yes,Web Developer,Web Developer
+8.64,No,Yes,Yes,Yes,Yes,Excellent,Low,No,Yes,Cloud Engineer,Cloud Engineer
+8.54,Yes,No,No,Yes,Yes,Good,High,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.01,Yes,No,Yes,No,No,Excellent,High,Yes,Yes,Web Developer,Web Developer
+7.18,No,No,No,Yes,Yes,Good,High,Yes,No,Data Scientist,Data Scientist
+8.58,No,Yes,Yes,Yes,No,Poor,Low,Yes,No,Android Developer,Android Developer
+6.62,Yes,No,No,Yes,No,Average,High,No,Yes,Software Engineer,Software Engineer
+8.33,Yes,Yes,Yes,Yes,No,Poor,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.47,No,Yes,No,No,No,Excellent,Low,No,No,Cloud Engineer,Cloud Engineer
+6.28,Yes,Yes,No,No,No,Excellent,Low,No,Yes,Android Developer,Android Developer
+9.27,No,No,No,Yes,No,Poor,Medium,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+7.02,Yes,Yes,Yes,Yes,No,Excellent,High,No,Yes,Data Scientist,Data Scientist
+9.09,No,Yes,Yes,No,No,Excellent,Medium,No,Yes,Software Engineer,Software Engineer
+9.59,No,Yes,Yes,No,Yes,Poor,Medium,No,No,Data Scientist,Data Scientist
+8.04,Yes,No,Yes,No,No,Excellent,Medium,Yes,No,Cloud Engineer,Cloud Engineer
+8.17,Yes,No,No,Yes,No,Excellent,High,No,Yes,AI Engineer,AI Engineer
+9.71,No,No,No,No,Yes,Average,High,No,Yes,Software Engineer,Software Engineer
+6.15,No,No,No,Yes,Yes,Good,High,No,Yes,AI Engineer,AI Engineer
+9.76,No,No,No,No,No,Poor,Medium,No,Yes,Data Analyst,Data Analyst
+8.22,Yes,No,No,Yes,Yes,Excellent,Low,No,Yes,Data Analyst,Data Analyst
+6.12,Yes,Yes,Yes,No,No,Excellent,Low,No,Yes,Web Developer,Web Developer
+7.91,No,Yes,Yes,Yes,No,Excellent,High,No,No,Data Analyst,Data Analyst
+7.75,No,No,No,No,Yes,Average,Medium,No,Yes,Software Engineer,Software Engineer
+8.93,Yes,No,No,No,No,Good,Medium,Yes,No,Cloud Engineer,Cloud Engineer
+9.11,Yes,No,Yes,No,Yes,Good,Medium,No,No,Data Analyst,Data Analyst
+6.77,No,No,Yes,Yes,Yes,Average,Low,Yes,Yes,Web Developer,Web Developer
+6.38,No,No,Yes,Yes,Yes,Average,Medium,No,No,AI Engineer,AI Engineer
+8.87,No,No,No,Yes,Yes,Average,High,Yes,Yes,Web Developer,Web Developer
+9.35,Yes,Yes,No,No,Yes,Good,Low,Yes,No,Data Analyst,Data Analyst
+9.53,No,No,No,No,Yes,Excellent,Medium,Yes,Yes,Data Scientist,Data Scientist
+6.62,No,No,Yes,Yes,No,Good,High,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.14,No,Yes,No,Yes,Yes,Average,Medium,No,Yes,Data Analyst,Data Analyst
+6.99,Yes,No,No,No,No,Poor,Medium,No,Yes,AI Engineer,AI Engineer
+8.54,No,No,Yes,No,No,Poor,High,No,No,AI Engineer,AI Engineer
+6.83,Yes,No,Yes,No,No,Excellent,High,No,Yes,Web Developer,Web Developer
+8.59,Yes,No,No,Yes,Yes,Poor,High,Yes,Yes,Web Developer,Web Developer
+7.25,No,Yes,Yes,No,Yes,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+7.74,Yes,No,No,Yes,No,Good,Low,Yes,Yes,Data Analyst,Data Analyst
+7.61,Yes,Yes,Yes,No,Yes,Good,Medium,Yes,Yes,AI Engineer,AI Engineer
+7.42,No,No,No,No,Yes,Average,High,No,Yes,Data Analyst,Data Analyst
+9.77,No,Yes,Yes,Yes,Yes,Good,Medium,No,No,Software Engineer,Software Engineer
+6.94,No,Yes,No,Yes,Yes,Poor,High,No,Yes,Web Developer,Web Developer
+6.78,Yes,Yes,No,Yes,Yes,Poor,Medium,No,Yes,Web Developer,Web Developer
+8.87,Yes,Yes,No,Yes,No,Good,Low,No,Yes,Web Developer,Web Developer
+7.57,No,Yes,Yes,No,No,Poor,Medium,No,No,Web Developer,Web Developer
+7.55,No,No,Yes,No,Yes,Average,Medium,Yes,No,Data Analyst,Data Analyst
+8.14,No,Yes,No,Yes,No,Average,Medium,Yes,No,AI Engineer,AI Engineer
+6.35,Yes,Yes,No,No,Yes,Poor,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+9.3,No,No,Yes,Yes,Yes,Poor,High,No,Yes,Web Developer,Web Developer
+7.51,Yes,No,No,No,No,Good,Medium,No,No,Web Developer,Web Developer
+7.77,No,No,Yes,No,No,Excellent,Low,Yes,Yes,Android Developer,Android Developer
+6.99,No,No,Yes,Yes,No,Average,Medium,Yes,No,AI Engineer,AI Engineer
+6.98,No,No,No,Yes,No,Average,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.99,Yes,Yes,Yes,No,Yes,Average,Low,Yes,Yes,AI Engineer,AI Engineer
+7.92,No,Yes,No,No,Yes,Poor,High,No,Yes,Web Developer,Web Developer
+8.01,No,No,Yes,No,Yes,Poor,Low,Yes,Yes,AI Engineer,AI Engineer
+8.36,No,No,No,No,Yes,Good,Medium,No,Yes,Web Developer,Web Developer
+7.14,Yes,Yes,Yes,No,No,Excellent,High,No,Yes,Web Developer,Web Developer
+8.67,Yes,No,No,No,Yes,Poor,Low,Yes,No,AI Engineer,AI Engineer
+6.18,Yes,No,Yes,Yes,No,Poor,Low,Yes,No,Cloud Engineer,Cloud Engineer
+7.14,Yes,No,No,No,Yes,Poor,High,No,Yes,Data Scientist,Data Scientist
+7.66,Yes,No,No,No,Yes,Good,Medium,No,Yes,Data Scientist,Data Scientist
+8.1,No,No,Yes,No,Yes,Good,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.59,Yes,No,No,No,Yes,Poor,Low,No,No,Cloud Engineer,Cloud Engineer
+8.89,Yes,Yes,Yes,Yes,No,Excellent,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.34,Yes,No,No,Yes,No,Excellent,Medium,Yes,Yes,AI Engineer,AI Engineer
+8.6,Yes,Yes,No,No,No,Excellent,Low,Yes,Yes,Software Engineer,Software Engineer
+7.05,No,No,Yes,No,No,Average,High,No,Yes,Data Analyst,Data Analyst
+6.41,No,Yes,No,No,No,Good,Medium,No,No,Android Developer,Android Developer
+7.14,Yes,No,No,Yes,No,Good,Medium,No,Yes,Software Engineer,Software Engineer
+7.43,No,No,Yes,Yes,Yes,Poor,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.03,Yes,No,No,Yes,No,Average,Medium,Yes,No,Android Developer,Android Developer
+6.28,No,No,No,Yes,No,Poor,Low,Yes,No,Data Analyst,Data Analyst
+8.46,Yes,No,No,No,Yes,Poor,Low,No,Yes,Software Engineer,Software Engineer
+7.69,No,No,Yes,No,Yes,Excellent,Low,No,No,Web Developer,Web Developer
+6.44,Yes,No,No,No,No,Average,High,No,No,Data Scientist,Data Scientist
+6.37,No,No,Yes,No,Yes,Poor,Low,No,Yes,Android Developer,Android Developer
+9.53,Yes,Yes,Yes,No,No,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+8.43,No,No,Yes,Yes,No,Excellent,Medium,Yes,Yes,Software Engineer,Software Engineer
+7.06,Yes,Yes,Yes,No,No,Average,Medium,Yes,No,Web Developer,Web Developer
+8.01,No,No,No,Yes,No,Good,Medium,Yes,No,Android Developer,Android Developer
+8.55,No,Yes,Yes,No,Yes,Average,Medium,Yes,No,Data Scientist,Data Scientist
+8.27,No,No,Yes,No,Yes,Average,Medium,No,Yes,Data Analyst,Data Analyst
+7.2,No,Yes,No,Yes,No,Average,Low,No,No,Software Engineer,Software Engineer
+8.6,No,No,No,Yes,Yes,Poor,Low,No,Yes,Data Analyst,Data Analyst
+6.85,No,Yes,No,No,Yes,Poor,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+8.08,No,Yes,Yes,No,Yes,Excellent,Medium,No,Yes,Android Developer,Android Developer
+9.29,Yes,Yes,Yes,No,No,Average,High,Yes,Yes,Android Developer,Android Developer
+9.06,No,No,Yes,No,No,Good,High,No,Yes,Web Developer,Web Developer
+9.66,No,Yes,No,Yes,Yes,Average,Low,No,Yes,Software Engineer,Software Engineer
+7.86,No,No,No,No,Yes,Poor,Medium,No,No,Data Analyst,Data Analyst
+9.61,No,Yes,Yes,No,No,Poor,High,No,Yes,Android Developer,Android Developer
+9.13,No,No,No,No,No,Average,High,No,No,Data Analyst,Data Analyst
+6.17,No,Yes,Yes,Yes,No,Excellent,Low,No,Yes,AI Engineer,AI Engineer
+9.35,No,Yes,No,Yes,No,Good,Low,No,Yes,Software Engineer,Software Engineer
+7.51,No,Yes,No,Yes,Yes,Poor,Low,No,Yes,AI Engineer,AI Engineer
+8.26,No,Yes,Yes,No,Yes,Excellent,High,Yes,No,Software Engineer,Software Engineer
+6.87,Yes,Yes,Yes,No,No,Good,Low,No,Yes,Data Scientist,Data Scientist
+6.26,Yes,Yes,No,No,Yes,Average,Medium,No,Yes,Software Engineer,Software Engineer
+9.41,Yes,Yes,No,No,No,Good,Low,Yes,No,Data Scientist,Data Scientist
+6.94,No,Yes,No,Yes,Yes,Excellent,Medium,Yes,Yes,Data Scientist,Data Scientist
+7.47,Yes,No,Yes,Yes,No,Good,Low,No,No,Android Developer,Android Developer
+8.08,Yes,No,Yes,Yes,Yes,Poor,Medium,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.6,No,No,No,No,No,Poor,High,Yes,No,AI Engineer,AI Engineer
+7.18,Yes,Yes,No,No,Yes,Good,High,No,Yes,Data Scientist,Data Scientist
+6.93,No,Yes,No,Yes,No,Average,Low,Yes,Yes,AI Engineer,AI Engineer
+6.62,No,No,Yes,No,Yes,Good,High,Yes,Yes,AI Engineer,AI Engineer
+9.07,No,Yes,No,Yes,No,Excellent,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.27,Yes,No,Yes,No,Yes,Poor,Low,Yes,Yes,Android Developer,Android Developer
+6.93,No,No,No,Yes,Yes,Poor,High,No,Yes,AI Engineer,AI Engineer
+6.94,No,No,Yes,No,Yes,Poor,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.26,No,No,No,No,Yes,Excellent,Low,No,Yes,Data Analyst,Data Analyst
+8.14,No,Yes,No,No,No,Average,High,Yes,Yes,Cloud Engineer,Cloud Engineer
+9.54,Yes,Yes,No,Yes,No,Poor,High,No,No,AI Engineer,AI Engineer
+6.78,Yes,No,No,Yes,Yes,Good,Low,Yes,Yes,Data Scientist,Data Scientist
+8.66,No,No,Yes,Yes,Yes,Excellent,Low,Yes,No,Data Analyst,Data Analyst
+6.9,No,No,No,No,No,Excellent,Medium,Yes,Yes,Software Engineer,Software Engineer
+6.52,Yes,Yes,Yes,Yes,No,Excellent,Medium,No,Yes,Web Developer,Web Developer
+9.67,Yes,No,No,No,No,Poor,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+6.82,No,Yes,Yes,Yes,No,Excellent,High,Yes,No,AI Engineer,AI Engineer
+9.12,Yes,Yes,No,No,Yes,Poor,Medium,Yes,Yes,Cloud Engineer,Cloud Engineer
+6.05,Yes,Yes,Yes,No,No,Poor,High,No,Yes,Data Scientist,Data Scientist
+9.79,Yes,No,Yes,Yes,No,Poor,Low,No,Yes,AI Engineer,AI Engineer
+9.51,No,No,No,Yes,No,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+7.04,No,Yes,Yes,Yes,No,Excellent,Medium,No,Yes,Software Engineer,Software Engineer
+7.06,Yes,No,Yes,Yes,Yes,Excellent,High,No,No,Data Scientist,Data Scientist
+7.31,No,No,No,Yes,Yes,Good,High,Yes,Yes,Android Developer,Android Developer
+6.22,No,No,Yes,Yes,Yes,Average,High,Yes,No,Cloud Engineer,Cloud Engineer
+8.9,Yes,No,No,Yes,Yes,Average,High,No,No,AI Engineer,AI Engineer
+8.67,No,Yes,Yes,No,No,Average,Medium,Yes,Yes,AI Engineer,AI Engineer
+6.88,Yes,Yes,No,Yes,No,Average,Low,No,Yes,AI Engineer,AI Engineer
+6.23,Yes,Yes,Yes,No,Yes,Good,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.15,Yes,Yes,No,No,No,Average,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.44,No,Yes,Yes,Yes,No,Poor,Low,No,Yes,Software Engineer,Software Engineer
+9.56,Yes,No,Yes,Yes,No,Good,Low,Yes,No,Data Scientist,Data Scientist
+6.04,Yes,Yes,Yes,No,No,Poor,High,Yes,Yes,Android Developer,Android Developer
+7.67,No,Yes,No,No,No,Good,High,No,Yes,Data Analyst,Data Analyst
+9.0,Yes,Yes,No,Yes,Yes,Good,Low,No,No,Android Developer,Android Developer
+6.28,Yes,No,Yes,Yes,Yes,Good,High,No,Yes,Data Scientist,Data Scientist
+9.58,Yes,No,Yes,Yes,Yes,Good,Low,Yes,No,Data Analyst,Data Analyst
+8.51,No,Yes,Yes,Yes,No,Excellent,Low,Yes,No,Cloud Engineer,Cloud Engineer
+7.62,No,No,Yes,Yes,Yes,Average,Low,No,Yes,AI Engineer,AI Engineer
+9.21,No,No,No,No,No,Poor,High,No,Yes,Android Developer,Android Developer
+9.36,No,Yes,No,Yes,No,Excellent,Medium,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.14,Yes,Yes,Yes,No,No,Average,High,Yes,No,Cloud Engineer,Cloud Engineer
+9.67,No,Yes,No,No,Yes,Excellent,High,Yes,Yes,Data Analyst,Data Analyst
+9.61,No,Yes,Yes,Yes,Yes,Average,Low,No,Yes,Data Scientist,Data Scientist
+6.77,Yes,No,No,Yes,Yes,Excellent,High,No,No,Data Analyst,Data Analyst
+7.97,Yes,No,Yes,No,Yes,Average,High,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.99,No,No,No,No,No,Excellent,Low,Yes,No,Data Scientist,Data Scientist
+6.55,No,Yes,No,No,Yes,Poor,High,No,No,Data Analyst,Data Analyst
+6.08,No,No,No,No,Yes,Average,Low,No,No,Cyber Security Analyst,Cyber Security Analyst
+7.02,No,Yes,Yes,No,Yes,Excellent,High,No,No,Cyber Security Analyst,Cyber Security Analyst
+7.96,Yes,Yes,No,No,Yes,Poor,Low,Yes,Yes,AI Engineer,AI Engineer
+6.95,No,Yes,No,Yes,No,Good,Medium,No,Yes,AI Engineer,AI Engineer
+6.92,No,No,Yes,No,No,Good,Low,No,Yes,AI Engineer,AI Engineer
+6.1,Yes,Yes,Yes,Yes,Yes,Average,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+7.8,Yes,Yes,Yes,Yes,No,Good,High,No,No,AI Engineer,AI Engineer
+9.24,No,No,Yes,No,No,Excellent,High,Yes,Yes,Data Analyst,Data Analyst
+8.13,No,No,Yes,No,Yes,Good,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.49,No,Yes,Yes,Yes,Yes,Excellent,High,No,Yes,Cloud Engineer,Cloud Engineer
+8.49,No,No,No,No,No,Poor,High,Yes,No,AI Engineer,AI Engineer
+8.61,No,No,No,Yes,Yes,Good,Low,No,Yes,Web Developer,Web Developer
+8.76,Yes,No,Yes,Yes,No,Average,High,No,No,Cloud Engineer,Cloud Engineer
+7.41,No,No,Yes,No,Yes,Poor,Medium,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.01,No,Yes,Yes,Yes,Yes,Good,Medium,No,Yes,Data Analyst,Data Analyst
+9.28,Yes,Yes,No,No,Yes,Good,High,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.04,Yes,Yes,No,Yes,Yes,Excellent,High,No,No,Android Developer,Android Developer
+9.67,No,Yes,Yes,Yes,No,Poor,Medium,Yes,Yes,Data Analyst,Data Analyst
+8.38,Yes,Yes,No,No,Yes,Poor,Medium,No,Yes,AI Engineer,AI Engineer
+9.13,No,No,No,No,No,Average,Medium,No,No,Data Scientist,Data Scientist
+6.63,No,Yes,Yes,Yes,Yes,Average,High,Yes,Yes,Web Developer,Web Developer
+7.39,Yes,No,No,Yes,Yes,Poor,High,Yes,Yes,Data Scientist,Data Scientist
+7.58,No,Yes,No,No,Yes,Average,High,Yes,No,Data Scientist,Data Scientist
+8.51,No,Yes,No,Yes,Yes,Good,Low,Yes,No,Data Analyst,Data Analyst
+8.31,No,Yes,No,No,No,Average,Low,No,Yes,Web Developer,Web Developer
+7.26,Yes,Yes,Yes,Yes,No,Average,Low,Yes,Yes,Android Developer,Android Developer
+8.45,No,No,No,No,Yes,Poor,Low,Yes,No,Cloud Engineer,Cloud Engineer
+9.05,No,No,Yes,Yes,Yes,Poor,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+9.4,No,Yes,No,No,Yes,Poor,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+9.18,No,No,Yes,Yes,Yes,Poor,Low,Yes,No,Cloud Engineer,Cloud Engineer
+9.05,No,Yes,No,No,Yes,Average,Medium,No,Yes,Android Developer,Android Developer
+7.67,Yes,No,No,Yes,Yes,Good,High,Yes,No,Data Analyst,Data Analyst
+7.83,No,Yes,Yes,Yes,Yes,Excellent,Medium,Yes,Yes,Web Developer,Web Developer
+7.22,No,No,Yes,Yes,No,Excellent,Low,Yes,No,Android Developer,Android Developer
+9.04,No,Yes,No,No,No,Poor,Medium,Yes,Yes,Android Developer,Android Developer
+7.57,Yes,Yes,No,Yes,No,Good,Medium,Yes,Yes,Data Analyst,Data Analyst
+7.26,No,No,No,Yes,Yes,Average,Low,No,No,Android Developer,Android Developer
+8.08,No,Yes,Yes,Yes,No,Average,High,No,Yes,Cloud Engineer,Cloud Engineer
+8.32,Yes,Yes,No,Yes,No,Average,High,No,Yes,Cloud Engineer,Cloud Engineer
+6.18,Yes,No,No,Yes,No,Poor,High,Yes,No,Data Analyst,Data Analyst
+9.51,Yes,Yes,Yes,Yes,No,Good,High,No,No,Android Developer,Android Developer
+7.04,No,No,No,Yes,Yes,Excellent,High,No,No,Web Developer,Web Developer
+6.76,No,No,Yes,Yes,No,Poor,Medium,No,No,Web Developer,Web Developer
+9.33,No,Yes,Yes,Yes,No,Average,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.85,Yes,No,No,Yes,Yes,Good,Low,Yes,No,Cloud Engineer,Cloud Engineer
+6.39,Yes,No,Yes,No,Yes,Excellent,Medium,No,No,Android Developer,Android Developer
+6.05,No,Yes,No,Yes,No,Average,High,Yes,No,AI Engineer,AI Engineer
+6.67,Yes,Yes,Yes,Yes,No,Poor,Medium,No,No,Android Developer,Android Developer
+6.61,No,Yes,No,No,Yes,Poor,Low,No,Yes,Software Engineer,Software Engineer
+7.86,No,Yes,No,Yes,Yes,Poor,High,Yes,No,Cloud Engineer,Cloud Engineer
+6.35,Yes,Yes,No,No,No,Good,Low,No,Yes,Data Analyst,Data Analyst
+8.54,No,Yes,Yes,Yes,No,Excellent,Low,No,No,Data Scientist,Data Scientist
+6.09,No,No,No,Yes,No,Average,Medium,Yes,Yes,Cloud Engineer,Cloud Engineer
+9.69,Yes,Yes,Yes,Yes,No,Poor,Low,No,Yes,Software Engineer,Software Engineer
+6.09,No,Yes,Yes,Yes,Yes,Average,Medium,Yes,Yes,Software Engineer,Software Engineer
+7.55,No,No,No,No,Yes,Excellent,High,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.87,Yes,Yes,No,Yes,No,Good,High,Yes,No,Data Scientist,Data Scientist
+7.45,Yes,No,Yes,Yes,Yes,Excellent,High,No,Yes,Android Developer,Android Developer
+8.57,No,Yes,Yes,Yes,Yes,Poor,High,No,Yes,Cloud Engineer,Cloud Engineer
+6.8,No,Yes,No,Yes,Yes,Average,Low,No,Yes,Cloud Engineer,Cloud Engineer
+6.69,Yes,No,Yes,No,Yes,Good,Low,Yes,No,Data Scientist,Data Scientist
+7.36,Yes,Yes,No,Yes,Yes,Good,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.64,Yes,No,No,No,Yes,Poor,Medium,Yes,Yes,Cloud Engineer,Cloud Engineer
+7.05,No,Yes,No,No,No,Excellent,Medium,No,No,Data Analyst,Data Analyst
+6.67,Yes,No,Yes,Yes,No,Poor,High,Yes,Yes,Data Scientist,Data Scientist
+9.09,No,Yes,Yes,No,No,Average,Medium,No,Yes,AI Engineer,AI Engineer
+6.51,Yes,No,No,Yes,Yes,Average,High,Yes,No,Cloud Engineer,Cloud Engineer
+6.68,Yes,No,No,Yes,Yes,Excellent,Low,Yes,No,Software Engineer,Software Engineer
+6.89,Yes,No,No,No,No,Poor,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.17,No,Yes,No,No,No,Poor,High,No,No,Cloud Engineer,Cloud Engineer
+7.96,No,No,No,No,Yes,Average,Medium,Yes,Yes,Web Developer,Web Developer
+7.96,No,Yes,Yes,Yes,Yes,Good,High,Yes,Yes,Data Scientist,Data Scientist
+9.08,Yes,No,No,No,Yes,Average,High,No,Yes,Data Analyst,Data Analyst
+6.16,Yes,Yes,Yes,Yes,Yes,Average,Medium,Yes,No,Web Developer,Web Developer
+9.34,No,Yes,Yes,No,No,Excellent,Low,Yes,No,AI Engineer,AI Engineer
+9.02,Yes,No,Yes,No,No,Poor,Low,No,No,Software Engineer,Software Engineer
+6.41,Yes,No,Yes,Yes,Yes,Excellent,High,Yes,Yes,Software Engineer,Software Engineer
+7.83,Yes,Yes,No,No,No,Poor,High,No,Yes,Data Scientist,Data Scientist
+9.0,No,No,Yes,No,Yes,Good,Medium,Yes,Yes,Android Developer,Android Developer
+8.27,No,No,Yes,Yes,Yes,Poor,High,Yes,No,Cloud Engineer,Cloud Engineer
+8.61,No,No,No,Yes,Yes,Excellent,High,No,No,Web Developer,Web Developer
+8.15,No,No,Yes,No,No,Average,Medium,No,No,Data Analyst,Data Analyst
+8.2,No,Yes,Yes,Yes,No,Average,Low,Yes,No,Cloud Engineer,Cloud Engineer
+9.04,Yes,Yes,No,Yes,Yes,Average,Medium,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.0,No,Yes,Yes,No,No,Good,High,Yes,Yes,Data Scientist,Data Scientist
+7.67,Yes,No,Yes,Yes,Yes,Average,High,Yes,No,Android Developer,Android Developer
+8.49,Yes,Yes,No,No,No,Excellent,Medium,Yes,Yes,Web Developer,Web Developer
+9.49,No,No,No,No,Yes,Average,Medium,No,Yes,Data Scientist,Data Scientist
+6.67,Yes,Yes,No,No,Yes,Good,High,No,No,Cloud Engineer,Cloud Engineer
+8.14,Yes,No,No,No,Yes,Excellent,Low,No,Yes,Data Analyst,Data Analyst
+8.41,Yes,Yes,No,No,No,Poor,High,No,Yes,Data Analyst,Data Analyst
+6.35,No,Yes,Yes,No,No,Good,Low,No,Yes,Cloud Engineer,Cloud Engineer
+7.9,Yes,Yes,Yes,No,Yes,Average,Low,Yes,No,Web Developer,Web Developer
+8.96,Yes,Yes,No,Yes,Yes,Excellent,Medium,No,No,Software Engineer,Software Engineer
+7.87,No,No,Yes,Yes,Yes,Excellent,Medium,Yes,No,Cloud Engineer,Cloud Engineer
+9.27,Yes,No,Yes,No,No,Poor,Low,Yes,No,Data Analyst,Data Analyst
+7.24,No,Yes,No,Yes,No,Excellent,High,No,No,Data Scientist,Data Scientist
+7.9,Yes,No,No,No,No,Good,Medium,Yes,Yes,Software Engineer,Software Engineer
+9.09,No,Yes,No,No,Yes,Average,High,Yes,No,Web Developer,Web Developer
+6.67,No,Yes,No,No,No,Good,High,Yes,No,AI Engineer,AI Engineer
+8.62,Yes,Yes,No,No,Yes,Excellent,High,No,No,Data Scientist,Data Scientist
+7.37,No,No,Yes,No,Yes,Good,High,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.35,No,No,Yes,No,No,Excellent,High,Yes,Yes,Cloud Engineer,Cloud Engineer
+7.6,No,Yes,Yes,Yes,No,Average,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.3,No,No,No,No,No,Excellent,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.77,No,Yes,Yes,Yes,No,Poor,Low,Yes,No,Software Engineer,Software Engineer
+6.1,No,Yes,Yes,No,Yes,Poor,High,No,No,AI Engineer,AI Engineer
+6.94,No,No,Yes,Yes,Yes,Poor,Low,No,No,Web Developer,Web Developer
+7.78,No,No,Yes,Yes,No,Excellent,High,No,No,Android Developer,Android Developer
+8.05,Yes,No,No,No,No,Good,Low,No,Yes,Android Developer,Android Developer
+7.99,Yes,No,No,No,Yes,Excellent,Medium,No,Yes,AI Engineer,AI Engineer
+9.03,Yes,Yes,No,Yes,No,Excellent,Medium,Yes,Yes,Data Analyst,Data Analyst
+9.15,Yes,No,Yes,No,Yes,Good,Medium,No,No,Data Analyst,Data Analyst
+9.24,Yes,Yes,No,Yes,No,Excellent,Medium,No,Yes,Web Developer,Web Developer
+6.07,Yes,Yes,Yes,Yes,No,Good,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+6.34,Yes,No,Yes,No,No,Good,Medium,No,No,Web Developer,Web Developer
+7.25,Yes,Yes,No,No,Yes,Excellent,Low,Yes,No,AI Engineer,AI Engineer
+9.15,Yes,Yes,No,No,Yes,Poor,Low,No,Yes,Data Analyst,Data Analyst
+7.8,No,No,Yes,Yes,Yes,Good,Medium,No,Yes,Web Developer,Web Developer
+9.37,Yes,Yes,Yes,No,No,Poor,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.0,Yes,Yes,No,Yes,No,Poor,Low,Yes,No,Data Analyst,Data Analyst
+8.61,No,Yes,Yes,No,Yes,Poor,Low,No,Yes,Data Scientist,Data Scientist
+9.73,No,No,Yes,Yes,No,Good,High,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+7.84,No,No,No,Yes,Yes,Good,Medium,No,No,AI Engineer,AI Engineer
+6.26,Yes,No,No,No,No,Excellent,Low,No,Yes,Software Engineer,Software Engineer
+8.35,No,Yes,No,Yes,No,Average,High,No,Yes,AI Engineer,AI Engineer
+7.23,No,Yes,Yes,Yes,Yes,Average,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+7.84,Yes,Yes,No,No,No,Poor,Medium,Yes,Yes,Data Scientist,Data Scientist
+9.53,Yes,No,Yes,No,Yes,Good,High,No,No,AI Engineer,AI Engineer
+9.13,No,Yes,Yes,No,Yes,Average,High,Yes,Yes,AI Engineer,AI Engineer
+8.02,Yes,Yes,Yes,Yes,No,Poor,High,No,No,Web Developer,Web Developer
+9.35,Yes,Yes,No,No,Yes,Excellent,Medium,No,No,Data Analyst,Data Analyst
+7.57,No,No,Yes,Yes,No,Good,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+6.0,Yes,No,Yes,Yes,No,Poor,Medium,Yes,Yes,Data Analyst,Data Analyst
+6.08,No,Yes,Yes,Yes,No,Good,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+9.38,Yes,Yes,No,No,Yes,Excellent,High,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+9.01,Yes,No,Yes,No,Yes,Excellent,Low,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+9.34,No,No,Yes,Yes,Yes,Excellent,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.05,Yes,No,Yes,Yes,Yes,Excellent,Medium,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.1,No,Yes,Yes,No,Yes,Excellent,High,Yes,No,Data Analyst,Data Analyst
+6.32,No,Yes,Yes,No,Yes,Excellent,Medium,Yes,Yes,Cloud Engineer,Cloud Engineer
+6.27,No,No,Yes,Yes,No,Excellent,Medium,No,Yes,Web Developer,Web Developer
+7.31,Yes,No,Yes,No,No,Average,Medium,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.6,Yes,Yes,Yes,Yes,Yes,Average,Medium,Yes,No,Web Developer,Web Developer
+7.16,No,Yes,No,Yes,Yes,Average,High,No,No,Data Scientist,Data Scientist
+8.64,Yes,No,Yes,No,Yes,Poor,Medium,Yes,No,Software Engineer,Software Engineer
+7.77,Yes,Yes,No,No,No,Poor,Low,No,No,AI Engineer,AI Engineer
+9.72,Yes,No,No,Yes,Yes,Average,High,No,Yes,Web Developer,Web Developer
+6.94,No,No,No,No,Yes,Poor,Medium,No,No,AI Engineer,AI Engineer
+6.9,No,Yes,No,No,Yes,Good,Low,Yes,No,Cloud Engineer,Cloud Engineer
+8.5,Yes,No,Yes,No,Yes,Average,Medium,No,No,Data Analyst,Data Analyst
+8.06,Yes,Yes,Yes,Yes,No,Average,Medium,Yes,Yes,Android Developer,Android Developer
+6.26,Yes,Yes,No,Yes,Yes,Good,Medium,No,No,Cyber Security Analyst,Cyber Security Analyst
+8.83,No,Yes,Yes,Yes,Yes,Average,Low,No,Yes,Android Developer,Android Developer
+6.88,Yes,No,Yes,No,Yes,Excellent,High,No,Yes,Web Developer,Web Developer
+7.87,Yes,Yes,Yes,Yes,Yes,Excellent,Low,No,No,Data Analyst,Data Analyst
+8.82,Yes,Yes,Yes,Yes,No,Excellent,High,No,No,Web Developer,Web Developer
+7.62,Yes,No,No,No,Yes,Poor,Medium,No,Yes,Web Developer,Web Developer
+7.97,No,Yes,No,Yes,Yes,Good,Medium,No,No,Web Developer,Web Developer
+7.75,No,No,Yes,Yes,No,Excellent,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+7.49,No,No,Yes,Yes,No,Average,Medium,Yes,No,Software Engineer,Software Engineer
+8.63,Yes,Yes,Yes,Yes,No,Good,Low,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+8.09,Yes,Yes,No,Yes,Yes,Average,Low,Yes,No,Data Analyst,Data Analyst
+7.18,No,No,Yes,Yes,Yes,Average,Low,No,Yes,Cloud Engineer,Cloud Engineer
+7.89,No,Yes,No,Yes,Yes,Excellent,Medium,No,No,Android Developer,Android Developer
+8.28,Yes,Yes,No,Yes,Yes,Average,Low,Yes,No,Data Scientist,Data Scientist
+6.55,Yes,No,No,Yes,Yes,Poor,Medium,Yes,Yes,AI Engineer,AI Engineer
+8.32,Yes,No,No,Yes,Yes,Good,Medium,No,No,Cloud Engineer,Cloud Engineer
+8.88,Yes,No,No,Yes,Yes,Good,Medium,No,Yes,Data Scientist,Data Scientist
+8.33,Yes,Yes,No,No,No,Good,Medium,No,Yes,Web Developer,Web Developer
+7.97,No,No,Yes,Yes,No,Average,Low,Yes,Yes,Android Developer,Android Developer
+8.38,Yes,Yes,No,No,Yes,Good,Medium,Yes,Yes,Android Developer,Android Developer
+8.62,No,Yes,No,No,No,Poor,Low,No,No,Web Developer,Web Developer
+8.75,Yes,Yes,Yes,No,No,Excellent,Medium,Yes,Yes,Data Analyst,Data Analyst
+6.59,No,No,No,No,Yes,Good,High,No,Yes,Android Developer,Android Developer
+8.19,No,No,Yes,Yes,No,Poor,Medium,No,Yes,Web Developer,Web Developer
+6.71,Yes,No,No,Yes,No,Excellent,Low,No,Yes,Data Analyst,Data Analyst
+7.72,No,Yes,No,Yes,Yes,Good,Low,Yes,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.92,No,Yes,Yes,No,No,Good,Medium,Yes,Yes,Android Developer,Android Developer
+6.78,Yes,No,No,Yes,Yes,Good,Low,Yes,No,Software Engineer,Software Engineer
+9.38,Yes,No,Yes,No,Yes,Good,Low,Yes,No,Android Developer,Android Developer
+8.02,No,Yes,No,Yes,Yes,Good,Low,Yes,Yes,Cloud Engineer,Cloud Engineer
+8.06,No,No,Yes,No,Yes,Average,Low,No,No,Web Developer,Web Developer
+6.19,Yes,No,Yes,Yes,No,Poor,Low,No,No,Android Developer,Android Developer
+8.68,No,No,No,No,Yes,Poor,Medium,Yes,Yes,Software Engineer,Software Engineer
+6.37,No,No,No,Yes,Yes,Average,High,No,No,Android Developer,Android Developer
+6.7,No,No,No,No,Yes,Poor,Medium,Yes,No,Data Analyst,Data Analyst
+7.75,Yes,No,No,Yes,Yes,Excellent,High,Yes,No,Android Developer,Android Developer
+9.01,No,No,No,Yes,Yes,Average,Medium,No,Yes,Data Scientist,Data Scientist
+6.79,No,No,No,Yes,Yes,Poor,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst
+7.24,Yes,No,Yes,No,No,Poor,High,Yes,No,Android Developer,Android Developer
+7.88,Yes,Yes,Yes,Yes,Yes,Average,High,Yes,No,Cyber Security Analyst,Cyber Security Analyst
+7.48,No,Yes,Yes,No,No,Good,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+8.32,No,Yes,No,Yes,No,Poor,Low,No,Yes,AI Engineer,AI Engineer
+9.29,Yes,No,No,No,No,Excellent,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+7.8,Yes,No,No,No,Yes,Good,High,Yes,Yes,Software Engineer,Software Engineer
+6.27,Yes,Yes,No,No,Yes,Poor,Low,No,No,AI Engineer,AI Engineer
+8.37,No,No,No,No,No,Average,Low,No,Yes,Data Analyst,Data Analyst
+9.22,Yes,No,No,No,Yes,Poor,High,No,No,Android Developer,Android Developer
+8.21,Yes,Yes,No,No,Yes,Poor,Low,No,Yes,Data Scientist,Data Scientist
+8.33,No,Yes,No,No,No,Good,Medium,No,No,Cloud Engineer,Cloud Engineer
+6.64,No,No,Yes,No,Yes,Poor,High,No,Yes,Cloud Engineer,Cloud Engineer
+7.84,Yes,Yes,No,No,Yes,Good,Medium,No,Yes,Cloud Engineer,Cloud Engineer
+8.29,Yes,No,No,Yes,No,Average,Medium,Yes,Yes,Data Scientist,Data Scientist
+9.74,Yes,Yes,No,No,No,Average,High,No,Yes,Cyber Security Analyst,Cyber Security Analyst

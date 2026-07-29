@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CareerAI Result</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Career Recommendation</h1>
+
+    <div class="result-box">
+        {{ career }}
+    </div>
+
+    <h2>Prediction Confidence</h2>
+
+    <div class="result-box">
+        {{ confidence }} %
+    </div>
+
+    <h2>Career Overview</h2>
+    <p>
+        {{ description }}
+    </p>
+
+
+    <h2>Required Skills</h2>
+    <p>
+        {{ skills }}
+    </p>
+
+
+    <h2>Recommended Courses</h2>
+    <p>
+        {{ courses }}
+    </p>
+
+
+    <a href="/">
+        <button>Try Again</button>
+    </a>
+
+</div>
+
+</body>
+</html>
